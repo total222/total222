@@ -1,7 +1,7 @@
 - 👋 Hola, soy @total222
 - 👀 I’m interested in ...AutoHotKey and Unity
 - 🌱 I’m currently learning ...AHK an C#
-- 💞️ I’m looking to collaborate on ...In Unity projects or AHK projects
+- 💞️ I’m looking to collaborate on ... Unity projects or AHK projects
 - 📫 How to reach me ...Not Right now
 - PD: Español(LatinoAmerica)/Ingles(Casi dominado)
 
