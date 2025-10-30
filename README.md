@@ -1,7 +1,7 @@
 - 👋 Hola, soy @total222
-- 👀 I’m interested in ...GODOT
-- 🌱 I’m currently learning ...GODOT
-- 💞️ I’m looking to collaborate on ... GODOT 
+- 👀 I’m interested in ...WEB PROGRAMMING
+- 🌱 I’m currently learning ...JavaScript
+- 💞️ I’m looking to collaborate on ... Web Proyects 
 - 📫 How to reach me ...Not Right now
 - PD: Español(LatinoAmerica)/Ingles(Casi dominado)
 
