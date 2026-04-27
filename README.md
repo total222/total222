@@ -1,5 +1,5 @@
 - 👋 Hi, I am @total222
-- 👀 I’m interested in ...Computer Cience
+- 👀 I’m interested in ...Computer Science
 - 🌱 I’m currently learning ...Math and CS
 - 💞️ I’m looking to collaborate on ... Any projects! 
 - 📫 How to reach me ... jaredramos630@gmail.com
