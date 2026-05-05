@@ -1,21 +1,16 @@
 <h1 align="center">Hola, soy Total :)</h1>
-
-###
-
 <p align="left"></p>
-
-###
-
+<p align="center">Esta es mi cuenta de Github donde pueden encontrar todos mis proyectos. Espero les sirva de algo. Por mi parte, ¡siempre hay algo nuevo que hacer cada día!</p>
 <div align="center">
-  <img height="310" src="https://wallpaperaccess.com/full/1336632.jpg"  />
+  <img height="310" width="1024" src="https://wallpaperaccess.com/full/1336632.jpg"  />
 </div>
 
 ###
 
-<p align="center">Esta es mi cuenta de Github donde pueden encontrar todos mis proyectos. Espero les sirva de algo. Por mi parte, ¡siempre hay algo nuevo que hacer cada día!</p>
+
 
 <div align="center">
-  <img src="https://count.getloli.com/@:total222?theme=original-old&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img width="1024"src="https://count.getloli.com/@:total222?theme=original-old&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
   </a>
